@@ -80,7 +80,6 @@ class _AwesomeCalendarDialogState extends State<AwesomeCalendarDialog> {
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
-      backgroundColor: Colors.white,
       contentPadding: const EdgeInsets.all(0),
       content: SizedBox(
         width: 300,
